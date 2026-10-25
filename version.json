@@ -1,13 +1,11 @@
 {
-  "version": "0.17.0",
+  "version": "0.18.0",
   "date": "2026-10-25",
   "notes": [
-    "Répondre depuis n'importe quelle catégorie : « Répondre » ou « Répondre avec l'assistant » dans le panneau d'un mail.",
-    "Transfert à plusieurs personnes, contacts de transfert ou toute autre adresse, avec confirmation nominative.",
-    "« Pour info » dans toutes les fonctions : ce qui est utile sans demander d'action reste dans la boîte (ajouté d'office).",
-    "Liens cliquables dans le mail reçu : fini les adresses Mailinblack interminables ; le modèle lit aussi un texte allégé.",
-    "Tableau plus réactif : marquer traité, remettre, afficher les mails traités sans attendre.",
-    "« Je range tout dès la fin du tri » est maintenant dans Paramètres → Catégories et rangement.",
-    "« Vérifier » dans la maintenance voit une nouvelle version tout de suite."
+    "Mail reçu affiché comme dans Outlook (mise en forme, logos, signatures) ; images externes bloquées jusqu'à un clic, ou toujours affichées (Paramètres → Ton).",
+    "Signature des brouillons en image ou en HTML (Paramètres → Titulaire), ajoutée sous chaque brouillon.",
+    "Mode Observation : « Répondre avec l'assistant » montre la réponse proposée, sans rien créer dans Outlook.",
+    "Option « Fermer le mail après « Marquer comme traité » » (Paramètres → Catégories et rangement).",
+    "Brouillons toujours en texte propre, quel que soit le modèle (fini les « ** » à la place des lignes vides)."
   ]
 }
