@@ -1,11 +1,9 @@
 {
-  "version": "0.18.0",
+  "version": "0.18.1",
   "date": "2026-10-25",
   "notes": [
-    "Mail reçu affiché comme dans Outlook (mise en forme, logos, signatures) ; images externes bloquées jusqu'à un clic, ou toujours affichées (Paramètres → Ton).",
-    "Signature des brouillons en image ou en HTML (Paramètres → Titulaire), ajoutée sous chaque brouillon.",
-    "Mode Observation : « Répondre avec l'assistant » montre la réponse proposée, sans rien créer dans Outlook.",
-    "Option « Fermer le mail après « Marquer comme traité » » (Paramètres → Catégories et rangement).",
-    "Brouillons toujours en texte propre, quel que soit le modèle (fini les « ** » à la place des lignes vides)."
+    "Mail reçu : un mail plus large que le panneau est réduit à la largeur disponible au lieu d'être coupé ; la hauteur s'ajuste de façon fiable.",
+    "Réponses de l'assistant écrites sur une seule ligne (GLM) : formule d'appel, formule de fin et signature remises sur leurs lignes.",
+    "Paramètres : nouvelle rubrique « Affichage » (images des mails, fermeture après « Marquer comme traité »)."
   ]
 }
