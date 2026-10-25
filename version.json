@@ -1,11 +1,8 @@
 {
-  "version": "0.15.0",
+  "version": "0.15.1",
   "date": "2026-10-25",
   "notes": [
-    "Mises à jour en un clic depuis la console de maintenance (adresse de Hermod + /maintenance), avec sauvegarde de la base et retour automatique à la version précédente en cas de problème.",
-    "Console de maintenance accessible avec le seul mot de passe administrateur, sans compte Microsoft.",
-    "Premiers pas : choix de la période et du nombre de mails du premier tri.",
-    "Factures : transfert proposé au contact qui les traite.",
-    "Installation : choix du modèle par famille (GLM ou Mistral avec le choix du modèle, Ollama avec la liste des modèles installés, ou tout autre serveur compatible)."
+    "Installation, Microsoft 365 : choix entre création automatique (compte administrateur du tenant) et saisie manuelle, une seule des deux affichée ; utilisateurs autorisés signalés comme obligatoires, avec ce qu'il faut saisir.",
+    "Installation par Tailscale : nom de la machine au choix (ex. hermod-dupont), pour plusieurs installations sur un même réseau."
   ]
 }
