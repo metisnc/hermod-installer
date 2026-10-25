@@ -3,8 +3,9 @@
 # l'installation.
 #
 #   curl -fsSL https://raw.githubusercontent.com/metisnc/hermod-installer/main/amorcer.sh | sudo bash
-#   (options : ... | sudo bash -s -- --branche <nom> --internet | --tailscale)
-#   ou, fichier téléchargé : sudo bash amorcer.sh [--branche <nom>] [--internet | --tailscale]
+#   (options : ... | sudo bash -s -- --internet | --tailscale)
+#
+# Installe toujours la branche main : on ne déploie jamais une branche de travail.
 #
 # Demande un jeton GitHub en lecture seule sur le dépôt (saisie masquée) : il sert au seul téléchargement du code,
 # n'est écrit nulle part sur la machine et n'apparaît pas dans l'historique du terminal. Ce script ne contient aucun
@@ -17,7 +18,6 @@ BRANCHE=main
 OPTIONS=()
 while [ $# -gt 0 ]; do
   case "$1" in
-    --branche) BRANCHE="$2"; shift 2 ;;
     --internet | --tailscale) OPTIONS+=("$1"); shift ;;
     *) echo "Option inconnue : $1" >&2; exit 1 ;;
   esac
