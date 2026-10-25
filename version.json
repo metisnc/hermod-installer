@@ -1,8 +1,9 @@
 {
-  "version": "0.15.7",
+  "version": "0.16.0",
   "date": "2026-10-25",
   "notes": [
-    "Panneau du mail : « Ouvrir dans Outlook » revient à droite, suivi de la corbeille.",
-    "Mails déjà traités affichés : ceux rangés (« Je range tout » ou Outlook) sont grisés comme les autres."
+    "Réponses à mon style (Paramètres, désactivé par défaut) : les brouillons reprennent votre façon d'écrire, en général et avec chaque contact habituel (tutoiement, formules, petits mots, signature), apprise de vos mails envoyés et de vos corrections.",
+    "Un contact peut être exclu de la personnalisation ; désactiver efface tout ce qui a été appris.",
+    "Sauvegarde des paramètres (Paramètres) : exporter puis réimporter vos paramètres et votre style après une réinstallation, sans rien réapprendre."
   ]
 }
