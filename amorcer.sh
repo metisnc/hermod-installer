@@ -3,7 +3,7 @@
 # l'installation.
 #
 #   curl -fsSL https://raw.githubusercontent.com/metisnc/hermod-installer/main/amorcer.sh | sudo bash
-#   (options : ... | sudo bash -s -- --internet | --tailscale)
+#   (options : ... | sudo bash -s -- --internet | --tailscale [--nom-tailscale <nom>])
 #
 # Installe toujours la branche main : on ne déploie jamais une branche de travail.
 #
@@ -19,6 +19,7 @@ OPTIONS=()
 while [ $# -gt 0 ]; do
   case "$1" in
     --internet | --tailscale) OPTIONS+=("$1"); shift ;;
+    --nom-tailscale) OPTIONS+=("$1" "${2:-}"); shift 2 ;;
     *) echo "Option inconnue : $1" >&2; exit 1 ;;
   esac
 done

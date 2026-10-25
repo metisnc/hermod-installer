@@ -9,7 +9,7 @@ affichage du code d'installation. La suite se fait dans le navigateur.
 curl -fsSL https://raw.githubusercontent.com/metisnc/hermod-installer/main/amorcer.sh | sudo bash
 ```
 
-Options : `| sudo bash -s -- --internet` (ou `--tailscale`). Installe toujours la branche `main`.
+Options : `| sudo bash -s -- --internet` (ou `--tailscale`, avec `--nom-tailscale <nom>` en option). Installe toujours la branche `main`.
 
 Ce dépôt ne contient aucun secret ni aucune partie de l'application : c'est une copie du script
 `deploiement/amorcer.sh` du dépôt de Hermod.
