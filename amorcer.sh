@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
-# Amorçage de Hermod sur un serveur Debian 12 vierge : récupère le code puis lance l'installation.
+# Amorçage de Hermod sur un serveur Debian 12 (ou Ubuntu 22.04 / 24.04) vierge : récupère le code puis lance
+# l'installation.
 #
 #   curl -fsSL https://raw.githubusercontent.com/metisnc/hermod-installer/main/amorcer.sh | sudo bash
 #   (options : ... | sudo bash -s -- --branche <nom> --internet | --tailscale)
