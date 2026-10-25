@@ -1,8 +1,9 @@
 {
-  "version": "0.15.5",
+  "version": "0.15.6",
   "date": "2026-10-25",
   "notes": [
-    "Icône du fournisseur du modèle : le détail s'affiche au simple survol, sans clic à refaire pour le fermer.",
-    "Rappel des versions précédentes : bandeau ou icône au choix (Administration → Modèles), icône « mise à jour disponible », page de connexion épurée."
+    "Corbeille : une icône en haut du mail l'envoie dans « Éléments supprimés » d'Outlook (récupérable) ; au même endroit, « Sortir de la corbeille » le ramène dans sa catégorie.",
+    "Changement de mode de fonctionnement : les catégories et brouillons qui n'avaient pas encore été écrits dans Outlook le sont tout de suite, sans relancer un tri, y compris en passant du mode Classement au mode Préparation ou Complet.",
+    "Une réponse déjà préparée se crée dans Outlook telle quelle (« Créer le brouillon dans Outlook »), sans être réécrite ; une réponse réécrite garde ses paragraphes."
   ]
 }
