@@ -1,8 +1,13 @@
 {
-  "version": "0.16.3",
+  "version": "0.17.0",
   "date": "2026-10-25",
   "notes": [
-    "Réponses à mon style : seuls vos mails écrits à la main sont étudiés (plus les envois d'Odoo ou d'autres logiciels, ni ceux d'une autre adresse ou d'un assistant IA). Pensez à « Réapprendre » après la mise à jour.",
-    "Modèle Président / DG : nouvelle catégorie « Pour info » (reste dans la boîte) pour les confirmations, avancées de dossiers et copies ; « À ranger » ne garde que newsletters, publicités et prospection ; un avis d'imposition à payer va en Facture. À appliquer dans Administration → Tri."
+    "Répondre depuis n'importe quelle catégorie : « Répondre » ou « Répondre avec l'assistant » dans le panneau d'un mail.",
+    "Transfert à plusieurs personnes, contacts de transfert ou toute autre adresse, avec confirmation nominative.",
+    "« Pour info » dans toutes les fonctions : ce qui est utile sans demander d'action reste dans la boîte (ajouté d'office).",
+    "Liens cliquables dans le mail reçu : fini les adresses Mailinblack interminables ; le modèle lit aussi un texte allégé.",
+    "Tableau plus réactif : marquer traité, remettre, afficher les mails traités sans attendre.",
+    "« Je range tout dès la fin du tri » est maintenant dans Paramètres → Catégories et rangement.",
+    "« Vérifier » dans la maintenance voit une nouvelle version tout de suite."
   ]
 }
