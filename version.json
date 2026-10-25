@@ -1,8 +1,8 @@
 {
-  "version": "0.15.1",
+  "version": "0.15.2",
   "date": "2026-10-25",
   "notes": [
-    "Installation, Microsoft 365 : choix entre création automatique (compte administrateur du tenant) et saisie manuelle, une seule des deux affichée ; utilisateurs autorisés signalés comme obligatoires, avec ce qu'il faut saisir.",
-    "Installation par Tailscale : nom de la machine au choix (ex. hermod-dupont), pour plusieurs installations sur un même réseau."
+    "Icône « mise à jour disponible » dans l'en-tête : elle ouvre la console de maintenance (mot de passe administrateur).",
+    "Page de connexion épurée : seule la connexion Microsoft s'y affiche ; l'issue de secours « Rouvrir l'installation » est dans la console de maintenance."
   ]
 }
