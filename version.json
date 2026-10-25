@@ -1,8 +1,8 @@
 {
-  "version": "0.16.2",
+  "version": "0.16.3",
   "date": "2026-10-25",
   "notes": [
-    "Administration → Boîte et mode : « Effacer le suivi » pour repartir de zéro (mails classés, brouillons proposés, journal, style appris) ; rien n'est touché dans Outlook.",
-    "Connecter une autre boîte efface automatiquement le suivi de la précédente."
+    "Réponses à mon style : seuls vos mails écrits à la main sont étudiés (plus les envois d'Odoo ou d'autres logiciels, ni ceux d'une autre adresse ou d'un assistant IA). Pensez à « Réapprendre » après la mise à jour.",
+    "Modèle Président / DG : nouvelle catégorie « Pour info » (reste dans la boîte) pour les confirmations, avancées de dossiers et copies ; « À ranger » ne garde que newsletters, publicités et prospection ; un avis d'imposition à payer va en Facture. À appliquer dans Administration → Tri."
   ]
 }
