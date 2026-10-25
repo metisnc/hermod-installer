@@ -1,0 +1,11 @@
+{
+  "version": "0.15.0",
+  "date": "2026-10-25",
+  "notes": [
+    "Mises à jour en un clic depuis la console de maintenance (adresse de Hermod + /maintenance), avec sauvegarde de la base et retour automatique à la version précédente en cas de problème.",
+    "Console de maintenance accessible avec le seul mot de passe administrateur, sans compte Microsoft.",
+    "Premiers pas : choix de la période et du nombre de mails du premier tri.",
+    "Factures : transfert proposé au contact qui les traite.",
+    "Installation : choix du modèle par famille (GLM ou Mistral avec le choix du modèle, Ollama avec la liste des modèles installés, ou tout autre serveur compatible)."
+  ]
+}
