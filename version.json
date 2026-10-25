@@ -1,8 +1,8 @@
 {
-  "version": "0.16.1",
+  "version": "0.16.2",
   "date": "2026-10-25",
   "notes": [
-    "Réponses à mon style : jusqu'à 100 contacts habituels suivis (au lieu de 30).",
-    "La relecture hebdomadaire du style ne réécrit que les fiches des contacts à qui vous avez écrit depuis : moins d'appels au modèle. « Réapprendre » refait tout."
+    "Administration → Boîte et mode : « Effacer le suivi » pour repartir de zéro (mails classés, brouillons proposés, journal, style appris) ; rien n'est touché dans Outlook.",
+    "Connecter une autre boîte efface automatiquement le suivi de la précédente."
   ]
 }
