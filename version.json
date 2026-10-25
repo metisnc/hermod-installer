@@ -1,8 +1,8 @@
 {
-  "version": "0.15.2",
+  "version": "0.15.3",
   "date": "2026-10-25",
   "notes": [
-    "Icône « mise à jour disponible » dans l'en-tête : elle ouvre la console de maintenance (mot de passe administrateur).",
-    "Page de connexion épurée : seule la connexion Microsoft s'y affiche ; l'issue de secours « Rouvrir l'installation » est dans la console de maintenance."
+    "Console de maintenance : « Vérifier maintenant » voit tout de suite une version qui vient d'être publiée ; « Fermer la console » ramène à Hermod.",
+    "Icône « mise à jour disponible » dans l'en-tête et page de connexion épurée (version 0.15.2)."
   ]
 }
