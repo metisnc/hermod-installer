@@ -1,8 +1,8 @@
 {
-  "version": "0.15.4",
+  "version": "0.15.5",
   "date": "2026-10-25",
   "notes": [
-    "Administration → Modèles : bandeau du fournisseur du modèle affiché en entier, ou remplacé par une icône discrète dans l'en-tête (même information au survol ou au toucher).",
-    "Installation validée sur Ubuntu 26.04."
+    "Icône du fournisseur du modèle : le détail s'affiche au simple survol, sans clic à refaire pour le fermer.",
+    "Rappel des versions précédentes : bandeau ou icône au choix (Administration → Modèles), icône « mise à jour disponible », page de connexion épurée."
   ]
 }
