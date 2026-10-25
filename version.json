@@ -1,9 +1,9 @@
 {
-  "version": "0.18.1",
+  "version": "0.20.0",
   "date": "2026-10-25",
   "notes": [
-    "Mail reçu : un mail plus large que le panneau est réduit à la largeur disponible au lieu d'être coupé ; la hauteur s'ajuste de façon fiable.",
-    "Réponses de l'assistant écrites sur une seule ligne (GLM) : formule d'appel, formule de fin et signature remises sur leurs lignes.",
-    "Paramètres : nouvelle rubrique « Affichage » (images des mails, fermeture après « Marquer comme traité »)."
+    "Pièces jointes : celles du mail reçu s'ouvrent ou se téléchargent ; « Joindre un fichier » ajoute un fichier à la réponse (3 Mo au plus).",
+    "Transfert : suggestions de destinataires dès les premières lettres, parmi les personnes avec qui vous échangez.",
+    "Mail reçu : affichage stable, plus de cadre qui grandit sans fin."
   ]
 }
