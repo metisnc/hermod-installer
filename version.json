@@ -1,7 +1,8 @@
 {
-  "version": "0.20.3",
+  "version": "0.20.4",
   "date": "2026-10-28",
   "notes": [
-    "Mail reçu avec beaucoup d'images (logos, signatures, historique) : affiché en entier sans attendre la dernière image, et bien plus vite (images lues une seule fois dans Outlook)."
+    "Mail reçu avec une grande image (capture d'écran collée) : seule l'image est réduite, le texte garde sa taille.",
+    "Clic sur une image réduite : elle s'ouvre en taille réelle (loupe au survol) ; une image qui est un lien garde son lien."
   ]
 }
