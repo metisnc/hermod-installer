@@ -1,7 +1,7 @@
 {
-  "version": "0.20.2",
+  "version": "0.20.3",
   "date": "2026-10-28",
   "notes": [
-    "Mail reçu : plus de cadre bloqué trop petit sur les longs échanges (bannières, signatures, historique) ; plus de barre de défilement qui masquait le bas du mail."
+    "Mail reçu avec beaucoup d'images (logos, signatures, historique) : affiché en entier sans attendre la dernière image, et bien plus vite (images lues une seule fois dans Outlook)."
   ]
 }
