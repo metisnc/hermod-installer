@@ -1,9 +1,7 @@
 {
-  "version": "0.20.0",
-  "date": "2026-10-25",
+  "version": "0.20.1",
+  "date": "2026-10-28",
   "notes": [
-    "Pièces jointes : celles du mail reçu s'ouvrent ou se téléchargent ; « Joindre un fichier » ajoute un fichier à la réponse (3 Mo au plus).",
-    "Transfert : suggestions de destinataires dès les premières lettres, parmi les personnes avec qui vous échangez.",
-    "Mail reçu : affichage stable, plus de cadre qui grandit sans fin."
+    "Espace disque : après chaque mise à jour, le cache de construction Docker ancien est effacé et seules les 5 dernières sauvegardes de la base sont gardées (actif à partir de la mise à jour suivante)."
   ]
 }
