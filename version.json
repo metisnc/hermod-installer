@@ -1,8 +1,7 @@
 {
-  "version": "0.20.4",
+  "version": "0.20.5",
   "date": "2026-10-28",
   "notes": [
-    "Mail reçu avec une grande image (capture d'écran collée) : seule l'image est réduite, le texte garde sa taille.",
-    "Clic sur une image réduite : elle s'ouvre en taille réelle (loupe au survol) ; une image qui est un lien garde son lien."
+    "Image réduite d'un mail : le clic l'ouvre en taille réelle dans un nouvel onglet (le clic ne faisait rien en 0.20.4)."
   ]
 }
