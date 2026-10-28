@@ -1,7 +1,7 @@
 {
-  "version": "0.20.1",
+  "version": "0.20.2",
   "date": "2026-10-28",
   "notes": [
-    "Espace disque : après chaque mise à jour, le cache de construction Docker ancien est effacé et seules les 5 dernières sauvegardes de la base sont gardées (actif à partir de la mise à jour suivante)."
+    "Mail reçu : plus de cadre bloqué trop petit sur les longs échanges (bannières, signatures, historique) ; plus de barre de défilement qui masquait le bas du mail."
   ]
 }
