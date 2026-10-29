@@ -1,9 +1,8 @@
 {
-  "version": "0.24.0",
+  "version": "0.25.0",
   "date": "2026-10-29",
   "notes": [
-    "Avant l’envoi : alerte si le message annonce une pièce jointe absente, ou si des personnes du mail d’origine ne recevront pas la réponse (« Ajouter en copie »).",
-    "Une carte par conversation dans chaque catégorie, avec « +N dans cette conversation » ; « Traité » vaut pour toute la conversation (réglable dans Affichage).",
-    "« Répondre » et « Répondre avec l’assistant » en un clic ; avec beaucoup de catégories, seules les colonnes défilent de côté."
+    "Mail ouvert : les personnes dans la boucle (À, Cc) sont affichées, et la réponse peut aller à l’expéditeur seul ou à tous.",
+    "« Traité » reste toujours au même endroit d’un mail à l’autre, et les notifications ne recouvrent plus les boutons."
   ]
 }
