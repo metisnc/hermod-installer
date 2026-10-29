@@ -1,8 +1,8 @@
 {
-  "version": "0.21.0",
+  "version": "0.22.0",
   "date": "2026-10-29",
   "notes": [
-    "L'assistant apprend de vos reclassements : un mail déplacé dans une autre catégorie aide à mieux classer les mails proches du même expéditeur.",
-    "Après un déplacement, « Toujours » range désormais tous les mails de cet expéditeur dans cette catégorie (liste dans Paramètres → Catégories et rangement)."
+    "« Marquer comme traité » : la flèche à côté du bouton permet de choisir où ranger le mail (boîte de réception, Archive, dossier de la catégorie ou autre dossier Outlook).",
+    "Le choix est retenu pour chaque catégorie : le bouton range ensuite les mails de cette catégorie au même endroit."
   ]
 }
