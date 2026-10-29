@@ -1,7 +1,8 @@
 {
-  "version": "0.20.5",
-  "date": "2026-10-28",
+  "version": "0.21.0",
+  "date": "2026-10-29",
   "notes": [
-    "Image réduite d'un mail : le clic l'ouvre en taille réelle dans un nouvel onglet (le clic ne faisait rien en 0.20.4)."
+    "L'assistant apprend de vos reclassements : un mail déplacé dans une autre catégorie aide à mieux classer les mails proches du même expéditeur.",
+    "Après un déplacement, « Toujours » range désormais tous les mails de cet expéditeur dans cette catégorie (liste dans Paramètres → Catégories et rangement)."
   ]
 }
