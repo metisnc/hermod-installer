@@ -1,8 +1,9 @@
 {
-  "version": "0.22.0",
+  "version": "0.23.0",
   "date": "2026-10-29",
   "notes": [
-    "« Marquer comme traité » : la flèche à côté du bouton permet de choisir où ranger le mail (boîte de réception, Archive, dossier de la catégorie ou autre dossier Outlook).",
-    "Le choix est retenu pour chaque catégorie : le bouton range ensuite les mails de cette catégorie au même endroit."
+    "Mail ouvert plus clair : le mail reçu avant la réponse, une barre d’actions toujours visible, « Transférer à » le contact proposé, mail précédent et suivant.",
+    "Tableau plus rapide : résumé de ce qui attend, recherche, raccourcis clavier (touche ?), actions au survol des cartes et sélection de plusieurs mails.",
+    "Paramètres : « Ce que l’assistant a appris » (règles, rangements, corrections), et mail et réponse côte à côte sur grand écran (Affichage)."
   ]
 }
