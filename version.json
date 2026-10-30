@@ -1,8 +1,7 @@
 {
-  "version": "0.25.0",
-  "date": "2026-10-29",
+  "version": "0.25.1",
+  "date": "2026-10-30",
   "notes": [
-    "Mail ouvert : les personnes dans la boucle (À, Cc) sont affichées, et la réponse peut aller à l’expéditeur seul ou à tous.",
-    "« Traité » reste toujours au même endroit d’un mail à l’autre, et les notifications ne recouvrent plus les boutons."
+    "Mail ouvert : la barre d’actions est collée au bas du panneau, le texte du mail ne passe plus en dessous."
   ]
 }
