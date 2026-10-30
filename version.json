@@ -1,7 +1,8 @@
 {
-  "version": "0.25.1",
+  "version": "0.25.2",
   "date": "2026-10-30",
   "notes": [
-    "Mail ouvert : la barre d’actions est collée au bas du panneau, le texte du mail ne passe plus en dessous."
+    "Mail ouvert : « Marquer comme traité », Outlook et la corbeille sur une barre juste sous le titre, la catégorie en dessous.",
+    "Très grand écran : le tableau prend toute la largeur, les colonnes ne sont plus coupées."
   ]
 }
