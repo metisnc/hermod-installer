@@ -1,7 +1,9 @@
 {
-  "version": "0.25.3",
+  "version": "0.26.0",
   "date": "2026-11-01",
   "notes": [
-    "Installation : la résolution de noms est fiabilisée avec Tailscale, Hermod joint Microsoft même après un redémarrage du serveur."
+    "Plusieurs boîtes sur un même serveur : Administration → Boîtes (ajout, utilisateurs, état). Chaque boîte a ses propres mails, réglages et apprentissages, et seuls ses utilisateurs la voient.",
+    "Les intégrateurs administrent toutes les boîtes sans voir leurs mails. Une personne qui utilise plusieurs boîtes les choisit en haut de la page.",
+    "Mise à jour sans reconfiguration : la boîte actuelle devient la première boîte et chacun garde ses accès."
   ]
 }
