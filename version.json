@@ -1,7 +1,7 @@
 {
-  "version": "0.26.4",
+  "version": "0.26.5",
   "date": "2026-11-01",
   "notes": [
-    "Administration → Installation et sécurité : les intégrateurs se gèrent en étiquettes ; on ne peut ni se retirer soi-même ni retirer le dernier."
+    "Catégories Notifications, À ranger et Pour info : ce que fait « Je range tout » est maintenant au choix (laisser dans la boîte, Archive ou un dossier)."
   ]
 }
