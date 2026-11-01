@@ -1,7 +1,7 @@
 {
-  "version": "0.26.1",
+  "version": "0.26.2",
   "date": "2026-11-01",
   "notes": [
-    "Administration → Boîtes : chaque boîte a sa fiche (utilisateurs, connexion et mode, catégories, traitement, qualité, consommation), sans changer de boîte en haut de la page."
+    "Une boîte ajoutée part du prompt de tri le plus récent."
   ]
 }
