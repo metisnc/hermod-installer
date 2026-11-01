@@ -1,7 +1,7 @@
 {
-  "version": "0.26.3",
+  "version": "0.26.4",
   "date": "2026-11-01",
   "notes": [
-    "Avant l'envoi, « Ajouter à la réponse » remet les personnes oubliées à leur place d'origine (« À » ou « Cc »)."
+    "Administration → Installation et sécurité : les intégrateurs se gèrent en étiquettes ; on ne peut ni se retirer soi-même ni retirer le dernier."
   ]
 }
