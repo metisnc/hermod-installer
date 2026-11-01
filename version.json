@@ -1,7 +1,7 @@
 {
-  "version": "0.26.5",
+  "version": "0.26.6",
   "date": "2026-11-01",
   "notes": [
-    "Catégories Notifications, À ranger et Pour info : ce que fait « Je range tout » est maintenant au choix (laisser dans la boîte, Archive ou un dossier)."
+    "Catégories : libellés des comportements plus clairs (« Information : à lire, rien à faire », « Archiver : sans intérêt, rien à faire ») ; la destination se règle dans « Je range tout »."
   ]
 }
