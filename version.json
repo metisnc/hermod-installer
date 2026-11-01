@@ -1,8 +1,7 @@
 {
-  "version": "0.25.2",
-  "date": "2026-10-30",
+  "version": "0.25.3",
+  "date": "2026-11-01",
   "notes": [
-    "Mail ouvert : « Marquer comme traité », Outlook et la corbeille sur une barre juste sous le titre, la catégorie en dessous.",
-    "Très grand écran : le tableau prend toute la largeur, les colonnes ne sont plus coupées."
+    "Installation : la résolution de noms est fiabilisée avec Tailscale, Hermod joint Microsoft même après un redémarrage du serveur."
   ]
 }
