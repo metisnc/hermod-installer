@@ -1,7 +1,7 @@
 {
-  "version": "0.26.2",
+  "version": "0.26.3",
   "date": "2026-11-01",
   "notes": [
-    "Une boîte ajoutée part du prompt de tri le plus récent."
+    "Avant l'envoi, « Ajouter à la réponse » remet les personnes oubliées à leur place d'origine (« À » ou « Cc »)."
   ]
 }
