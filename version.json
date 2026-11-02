@@ -1,7 +1,7 @@
 {
-  "version": "0.28.0",
+  "version": "0.28.1",
   "date": "2026-11-02",
   "notes": [
-    "Vous pouvez autoriser votre intégrateur à consulter les mails de votre boîte (menu de votre compte), pour 1 heure, 1 jour ou 7 jours : en lecture seule, retirable à tout moment, et noté dans le journal de la boîte."
+    "L'accès de votre intégrateur à vos mails se règle maintenant dans Paramètres → Accès de l'intégrateur : état, durée, retrait et derniers accès au même endroit."
   ]
 }
