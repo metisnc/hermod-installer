@@ -1,7 +1,7 @@
 {
-  "version": "0.27.2",
+  "version": "0.28.0",
   "date": "2026-11-02",
   "notes": [
-    "Une boîte ajoutée démarre en mode Observation (rien n'est écrit dans Outlook), comme la première. Les boîtes existantes gardent leur mode."
+    "Vous pouvez autoriser votre intégrateur à consulter les mails de votre boîte (menu de votre compte), pour 1 heure, 1 jour ou 7 jours : en lecture seule, retirable à tout moment, et noté dans le journal de la boîte."
   ]
 }
