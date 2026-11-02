@@ -1,7 +1,7 @@
 {
-  "version": "0.27.0",
-  "date": "2026-11-01",
+  "version": "0.27.1",
+  "date": "2026-11-02",
   "notes": [
-    "Nouvelle installation possible en réseau local, chez le client, sans Tailscale ni port ouvert depuis Internet (certificat obtenu par validation DNS). Rien ne change pour les installations existantes."
+    "Installation : l'espace disque est vérifié avant de commencer (arrêt sous 10 Go libres), et les options du mode réseau local passent aussi par la commande d'installation en une ligne. Rien ne change pour les installations existantes."
   ]
 }
