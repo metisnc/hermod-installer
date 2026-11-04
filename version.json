@@ -1,7 +1,7 @@
 {
-  "version": "0.28.4",
+  "version": "0.28.5",
   "date": "2026-11-04",
   "notes": [
-    "Sur téléphone et tablette, les boutons sont plus grands et plus espacés : moins d'appuis à côté. Rien ne change sur ordinateur."
+    "Sur iPhone, la croix qui ferme un mail ouvert réagit dès le premier appui, et elle est plus grande."
   ]
 }
