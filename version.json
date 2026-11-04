@@ -1,7 +1,7 @@
 {
-  "version": "0.28.2",
+  "version": "0.28.3",
   "date": "2026-11-04",
   "notes": [
-    "Sur iPhone, « Marquer comme traité » dans le mail ouvert réagit de nouveau au premier appui."
+    "Sur iPhone, tous les boutons réagissent dès le premier appui (par exemple « Transférer… » dans un mail Infos)."
   ]
 }
