@@ -1,7 +1,7 @@
 {
-  "version": "0.28.5",
+  "version": "0.28.6",
   "date": "2026-11-04",
   "notes": [
-    "Sur iPhone, la croix qui ferme un mail ouvert réagit dès le premier appui, et elle est plus grande."
+    "Sur téléphone, fermer un mail avec la croix n'ouvre plus par erreur le mail situé dessous."
   ]
 }
