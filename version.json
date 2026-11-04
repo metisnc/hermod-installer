@@ -1,7 +1,7 @@
 {
-  "version": "0.28.3",
+  "version": "0.28.4",
   "date": "2026-11-04",
   "notes": [
-    "Sur iPhone, tous les boutons réagissent dès le premier appui (par exemple « Transférer… » dans un mail Infos)."
+    "Sur téléphone et tablette, les boutons sont plus grands et plus espacés : moins d'appuis à côté. Rien ne change sur ordinateur."
   ]
 }
