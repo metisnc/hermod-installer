@@ -1,7 +1,7 @@
 {
-  "version": "0.28.6",
-  "date": "2026-11-04",
+  "version": "0.28.7",
+  "date": "2026-11-05",
   "notes": [
-    "Sur téléphone, fermer un mail avec la croix n'ouvre plus par erreur le mail situé dessous."
+    "Nouvelle option dans Paramètres : supprimer le brouillon préparé quand le mail est marqué comme traité (il part dans « Éléments supprimés » d'Outlook, récupérable). Désactivée par défaut."
   ]
 }
