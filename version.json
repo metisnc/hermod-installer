@@ -1,7 +1,7 @@
 {
-  "version": "0.28.7",
-  "date": "2026-11-05",
+  "version": "0.28.8",
+  "date": "2026-11-17",
   "notes": [
-    "Nouvelle option dans Paramètres : supprimer le brouillon préparé quand le mail est marqué comme traité (il part dans « Éléments supprimés » d'Outlook, récupérable). Désactivée par défaut."
+    "La signature en image se règle en largeur dans Paramètres → Signature des brouillons (aperçu en direct) ; elle n'apparaît plus en taille réelle dans Outlook."
   ]
 }
