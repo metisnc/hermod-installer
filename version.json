@@ -1,7 +1,7 @@
 {
-  "version": "0.28.8",
+  "version": "0.28.9",
   "date": "2026-11-17",
   "notes": [
-    "La signature en image se règle en largeur dans Paramètres → Signature des brouillons (aperçu en direct) ; elle n'apparaît plus en taille réelle dans Outlook."
+    "Préparation de l'accès par le réseau local à côté de Tailscale (aucun changement visible)."
   ]
 }
