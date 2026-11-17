@@ -1,7 +1,7 @@
 {
-  "version": "0.28.9",
+  "version": "0.28.10",
   "date": "2026-11-17",
   "notes": [
-    "Préparation de l'accès par le réseau local à côté de Tailscale (aucun changement visible)."
+    "Le menu des boîtes en haut ne montre que les boîtes dont vous voyez les mails ; il disparaît si vous n'en avez qu'une."
   ]
 }
